@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-hudochenkov",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My Prettier config",
   "scripts": {
     "fix": "prettier *.js --write",
