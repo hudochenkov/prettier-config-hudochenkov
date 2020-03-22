@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/hudochenkov/prettier-config-hudochenkov#readme",
   "peerDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1 || ^2.0.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.1"
   },
   "prettier": "./index.js"
 }
