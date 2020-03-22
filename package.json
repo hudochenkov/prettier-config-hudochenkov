@@ -9,14 +9,7 @@
   "main": "index.js",
   "author": "Aleks Hudochenkov <aleks@hudochenkov.com> (https://hudochenkov.com)",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hudochenkov/prettier-config-hudochenkov.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hudochenkov/prettier-config-hudochenkov/issues"
-  },
-  "homepage": "https://github.com/hudochenkov/prettier-config-hudochenkov#readme",
+  "repository": "hudochenkov/prettier-config-hudochenkov",
   "peerDependencies": {
     "prettier": "^1.19.1 || ^2.0.1"
   },
