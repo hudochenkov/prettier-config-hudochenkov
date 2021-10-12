@@ -7,6 +7,9 @@
 		"test": "prettier *.js --check"
 	},
 	"main": "index.js",
+	"files": [
+		"index.js"
+	],
 	"author": "Aleks Hudochenkov <aleks@hudochenkov.com> (https://hudochenkov.com)",
 	"license": "MIT",
 	"repository": "hudochenkov/prettier-config-hudochenkov",
