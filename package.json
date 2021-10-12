@@ -11,10 +11,10 @@
 	"license": "MIT",
 	"repository": "hudochenkov/prettier-config-hudochenkov",
 	"peerDependencies": {
-		"prettier": "^1.19.1 || ^2.0.1"
+		"prettier": "^2.4.1"
 	},
 	"devDependencies": {
-		"prettier": "^2.0.4"
+		"prettier": "^2.4.1"
 	},
 	"prettier": "./index.js"
 }
