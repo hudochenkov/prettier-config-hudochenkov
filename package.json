@@ -1,20 +1,20 @@
 {
-  "name": "prettier-config-hudochenkov",
-  "version": "0.2.0",
-  "description": "My Prettier config",
-  "scripts": {
-    "fix": "prettier *.js --write",
-    "test": "prettier *.js --check"
-  },
-  "main": "index.js",
-  "author": "Aleks Hudochenkov <aleks@hudochenkov.com> (https://hudochenkov.com)",
-  "license": "MIT",
-  "repository": "hudochenkov/prettier-config-hudochenkov",
-  "peerDependencies": {
-    "prettier": "^1.19.1 || ^2.0.1"
-  },
-  "devDependencies": {
-    "prettier": "^2.0.4"
-  },
-  "prettier": "./index.js"
+	"name": "prettier-config-hudochenkov",
+	"version": "0.2.0",
+	"description": "My Prettier config",
+	"scripts": {
+		"fix": "prettier *.js --write",
+		"test": "prettier *.js --check"
+	},
+	"main": "index.js",
+	"author": "Aleks Hudochenkov <aleks@hudochenkov.com> (https://hudochenkov.com)",
+	"license": "MIT",
+	"repository": "hudochenkov/prettier-config-hudochenkov",
+	"peerDependencies": {
+		"prettier": "^1.19.1 || ^2.0.1"
+	},
+	"devDependencies": {
+		"prettier": "^2.0.4"
+	},
+	"prettier": "./index.js"
 }
