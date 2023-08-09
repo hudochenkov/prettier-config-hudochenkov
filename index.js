@@ -1,5 +1,7 @@
 // https://prettier.io/docs/en/options.html
-module.exports = {
+
+/** @type {import("prettier").Config} */
+export default {
 	arrowParens: 'always',
 	bracketSpacing: true,
 	endOfLine: 'lf',

@@ -6,7 +6,8 @@
 		"fix": "prettier *.js --write",
 		"test": "prettier *.js --check"
 	},
-	"main": "index.js",
+	"type": "module",
+	"exports": "./index.js",
 	"files": [
 		"index.js"
 	],
