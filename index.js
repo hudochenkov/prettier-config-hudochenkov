@@ -10,7 +10,7 @@ module.exports = {
 	semi: true,
 	singleQuote: true,
 	tabWidth: 4,
-	trailingComma: 'es5',
+	trailingComma: 'all',
 	useTabs: true,
 	overrides: [
 		{
